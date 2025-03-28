@@ -13,7 +13,7 @@ Cool random SEO scripts.
 
 
 ## Bookmarklet version :
-1) Créate a new shortcut
+1) Create a new shortcut
 2) Name the shortcut as you want
 3) Paste the code in the " link " part and press "OK ".
 4) After the analysis is finish just click on the shortcut.
